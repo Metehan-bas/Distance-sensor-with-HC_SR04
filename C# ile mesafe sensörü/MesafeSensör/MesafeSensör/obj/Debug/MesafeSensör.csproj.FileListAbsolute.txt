@@ -1,0 +1,11 @@
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\bin\Debug\MesafeSensör.exe.config
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\bin\Debug\MesafeSensör.exe
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\bin\Debug\MesafeSensör.pdb
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.csproj.AssemblyReference.cache
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.Form1.resources
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.Properties.Resources.resources
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.csproj.GenerateResource.cache
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.csproj.CoreCompileInputs.cache
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.exe
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.pdb
+C:\Users\meteh\OneDrive\Desktop\MesafeSensör\MesafeSensör\obj\Debug\MesafeSensör.exe.config
